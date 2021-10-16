@@ -1,0 +1,15 @@
+{
+    "name": "stephanie/quetes_composer",
+    "autoload": {
+        "psr-4": {
+            "Stephanie\\QuetesComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stéphanie AMANS",
+            "email": "stephanie-amans_student2021@wilder.school"
+        }
+    ],
+    "require": {}
+}
